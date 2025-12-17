@@ -2,7 +2,7 @@
 
 This repository is an ode to MTH299, my introduction to higher level mathematics at Michigan State University.
 
-It specifically goes through [my old textbook]() and implements fun proofs and exercises in Lean4.
+It specifically goes through [my old textbook](https://scholarworks.wmich.edu/books/701/) and implements fun proofs and exercises in Lean4.
 
 ## Quickstart
 
