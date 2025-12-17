@@ -1,13 +1,9 @@
-# mth299-lean
+# MTH299 Lean
 
-## GitHub configuration
+This repository is an ode to MTH299, my introduction to higher level mathematics at Michigan State University.
 
-To set up your new GitHub repository, follow these steps:
+It specifically goes through [my old textbook]() and implements fun proofs and exercises in Lean4.
 
-* Under your repository name, click **Settings**.
-* In the **Actions** section of the sidebar, click "General".
-* Check the box **Allow GitHub Actions to create and approve pull requests**.
-* Click the **Pages** section of the settings sidebar.
-* In the **Source** dropdown menu, select "GitHub Actions".
+## Quickstart
 
-After following the steps above, you can remove this section from the README file.
+Follow the [lean installation guide](https://lean-lang.org/install/).
